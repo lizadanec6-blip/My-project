@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - TutorialRequirement
+  - Ground
+  - Wall
+  - Item
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - stena
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: level
+    uniqueID: 2005254477
+    locked: 0
+  - name: Backgruong
+    uniqueID: 4177918413
+    locked: 0
+  - name: Walls2
+    uniqueID: 320090997
+    locked: 0
+  - name: Walls
+    uniqueID: 3947677863
+    locked: 0
+  - name: Ground
+    uniqueID: 957647959
+    locked: 0
+  - name: Player
+    uniqueID: 1540455541
+    locked: 0
+  - name: Candls
+    uniqueID: 4234957615
+    locked: 0
+  - name: Foreground
+    uniqueID: 2629016905
+    locked: 0
+  - name: Enemy
+    uniqueID: 1358134783
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
