@@ -1,0 +1,60 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+Obj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Unity cache and local settings
+MemoryCaptures/
+ProfilerMemoryCaptures/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider / IDE files
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+
+# Compiled files, packages, archives
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+
+# Build system / tooling
+.vagrant/
+.gradle/
+node_modules/
+
+# Large asset caches and temp imports
+obj/
+Temp/
+Library/
+
+# Log files
+*.log
+
+# Keep Unity .meta files in repo — do NOT ignore *.meta
